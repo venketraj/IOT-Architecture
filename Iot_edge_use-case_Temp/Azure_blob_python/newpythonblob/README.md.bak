@@ -1,0 +1,8 @@
+# python-azure-blob-stoage
+This is demo for upload blob using python
+
+# References
+watchdog --- 
+
+
+Overwrite file in Azure Blob ----> https://stackoverflow.com/questions/61130890/best-way-to-overwrite-azure-blob-in-python
