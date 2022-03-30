@@ -1,13 +1,13 @@
-Live Temperature Monitoring using Edge Computing with Microsoft Azure 
+# Live Temperature Monitoring using Edge Computing with Microsoft Azure 
 
-*Mqtt Client (ESP32) publishes sensor data to (Mosquitto)broker running on server 
+* Mqtt Client (ESP32) publishes sensor data to (Mosquitto)broker running on server 
 
-#Mosquitto Setup on Windows Machine
+# Mosquitto Setup on Windows Machine
 
-*Install Mosquitto Broker on windows
+* Install Mosquitto Broker on windows
 ```
 https://mosquitto.org/download/
 ```
 
 
-*Node-Red Connects with the MQTT Server . 
+* Node-Red Connects with the MQTT Server . 
