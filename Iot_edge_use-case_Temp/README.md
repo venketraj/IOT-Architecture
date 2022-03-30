@@ -2,7 +2,7 @@
 
 * Mqtt Client (ESP32) publishes sensor data to (Mosquitto)broker running on server 
 
-# Mosquitto Setup on Windows Machine
+* Mosquitto Setup on Windows Machine
 
 * Install Mosquitto Broker on windows
 ```
