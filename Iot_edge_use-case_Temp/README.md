@@ -1,4 +1,4 @@
-#Live Temperature Monitoring using Edge Computing with Microsoft Azure 
+Live Temperature Monitoring using Edge Computing with Microsoft Azure 
 
 *Mqtt Client (ESP32) publishes sensor data to (Mosquitto)broker running on server 
 
